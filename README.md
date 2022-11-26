@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rafifpurnomo.
+- 📑 this is my first portfolio.
+- 📁 This portfolio contains my background, from education to social media that I can contact.
